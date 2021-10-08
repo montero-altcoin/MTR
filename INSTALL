@@ -1,0 +1,9 @@
+Building Montero
+
+See doc/readme-qt.rst for instructions on building Montero-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Montero.
+
+See doc/build-*.txt for instructions on building Monterod,
+the intended-for-services, no-graphical-interface, reference
+implementation of Montero.

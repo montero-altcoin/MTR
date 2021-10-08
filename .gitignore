@@ -1,0 +1,34 @@
+src/*.exe
+src/Montero
+src/Monterod
+src/test_Montero
+.*.swp
+*.*~*
+*.bak
+*.rej
+*.orig
+*.o
+*.patch
+.Montero
+
+# Compilation and Qt preprocessor part
+*.qm
+Makefile
+Montero-qt
+Montero-Qt.app
+
+# Unit-tests
+Makefile.test
+Montero-qt_test
+
+# Resources cpp
+qrc_*.cpp
+
+# Qt creator
+*.pro.user
+
+# Mac specific
+.DS_Store
+build
+
+!src/leveldb*/Makefile
